@@ -1,3 +1,4 @@
 github is a distributed version controlling system.
 github actions is a ci/cd tool used for the continuous integration and continuous deployment
-
+recently github actions have been a popular cicd tool among the developers 
+by the use of this no third party integration is required
